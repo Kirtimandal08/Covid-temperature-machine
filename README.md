@@ -8,9 +8,9 @@ I have created a project which is specifically for temperature-based entrance sy
 5. No temperature sensation if there isn't any person available.
 
 tools used:
-Arduino uno
-MLX90614
-Speaker
-Led lights
-passive components
-Stepper motor
+1. Arduino uno
+2. MLX90614
+3. Speaker
+4. Led lights
+5. passive components
+6. Stepper motor
